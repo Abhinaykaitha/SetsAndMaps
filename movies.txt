@@ -1,0 +1,169 @@
+Movie
+Baahubali: The Beginning
+Drama
+$1.04 Billion
+G
+Actors
+Shivudu / Baahubali - Prabhas Raju
+35
+$1.3 million
+Bhallaladeva - Rana Daggubati
+29
+$1.2 million
+Shivagami - Ramya Krishna
+50
+$0.8 million
+Kattappa - Sathyaraj Rangaraj
+60
+$0.8 million
+Devasena - Anushka Shetty
+30
+$0.7 million
+Avanthika - Tamannaah Bhatia
+29
+$0.3 million
+Bijjaladeva - Nassar N
+62
+$0.8 million
+Technicians
+M.M. Keeravani
+Music Director
+Sabu Cyril
+Art Director
+Yovko Dogandjiiski
+Special Effects
+Adel Adili
+VFX Art Director
+Kaloian Vodenicharov
+Stunt Coordinator
+Lee Whittaker
+Stunt Coordinator
+Viktor Hristov
+Stunt Performer
+Stilyan Mavrov
+Stunt Performer
+Movie
+Ye Maaya Chesave
+Romance
+$2.8 million
+PG_13
+Actors
+Jessie Thekekuttu - Samantha Akkineni
+29
+$0.25 million
+Karthik - Naga Chaitanya
+27
+$0.5 million
+Technicians
+Manjula Ghattamaneni
+Producer
+Allah-Rakha Rahman
+Music Director
+Rajeevan K
+Art Director
+Movie
+Taare Zameen Par
+Drama
+$12.54 million
+PG
+Actors
+Ram Shankar Nikumbh - Aamir Khan
+58
+$0.74 million
+Ishaan Awasthi - Darsheel Safary
+28
+$0.23 million
+Maya Awasthi - Tisca Chopra
+50
+$0.12 million
+Technicians
+Aamir Khan
+Director
+Ayush Ahuja
+Special effects
+Movie
+Avengers: Infinity War
+Fantasy
+$2.047 billion
+PG
+Actors
+Tony Stark / Iron Man - Robert Downey
+50
+$3.5 million
+Thor - Chris Hemsworth
+38
+$3.2 million
+Bruce Banner / Hulk - Mark Ruffalo
+46
+$2.1 million
+Steve Rogers / Captain America - Chris Evans
+37
+$2.02 million
+Natasha Romanoff / Black Widow - Scarlett Johansson
+35
+$1.8 million
+James Rhodes / War Machine - Don Cheadle
+46
+$1.98 million
+Doctor Strange - Benedict Cumberbatch
+45
+$2.5 million
+Peter Parker / Spider Man - Tom Holland
+18
+$1.4 million
+T'Challa / Black Panther - Chadwick Boseman
+30
+$1.6 million
+Gamora - Zoe Saldana
+28
+$1.5 million
+Nebula - Karen Gillan
+30
+$1.5 million
+Loki - Tom Hiddleston
+34
+$1.7 million
+Vision - Paul Bettany
+42
+$2.02 million
+Wanda Maximoff / Scarlet Witch - Elizabeth Olsen
+24
+$1.82 million
+Sam Wilson / Falcon - Anthony Mackie
+35
+$1.1 million
+Technicians
+Anthony Russo
+Director
+Joe Russo
+Director
+Sean Ryan Jennings
+VFX Art Director
+Marija Juliette Abney
+Stunt Performer
+Chris Barnes
+Stunt Coordinator
+Steve Durkee
+Music Editor
+Movie
+Billa
+Thriller
+30.9 million USD
+PG
+Actors
+Ranga / Billa - Prabhas Raju
+35
+$1.3 million
+Maya - Anushka Shetty
+30
+$0.7 million
+Technicians
+Mehar Ramesh
+Director
+Stun Shiva
+Stunt Performer
+Mani Sharma
+Music Director
+A.S. Prakash
+Art Director
+
